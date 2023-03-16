@@ -12,4 +12,4 @@ repository = "https://github.com/mjdwitt/tailsome"
 [dependencies]
 
 [dev-dependencies]
-rstest = "0.12.0"
+rstest = { version = "0.16.0", default-features = false }
